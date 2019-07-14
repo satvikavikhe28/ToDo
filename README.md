@@ -10,7 +10,7 @@ The TODO app must have the following functionality -
 6.  Refreshing the page resets the list to an empty state.
 7.  The app need not be responsive and can have just the bare minimum styling so that it looks presentable.
 
-The State Management System should have the following abilties/functionalities - 
+The State Management System should have the following abilities/functionalities - 
 
 1.  Get the current state.
 2.  Perform mutations to the existing data.
